@@ -5,7 +5,7 @@ langchain
 flask
 pypdf
 langchain-pinecone
-
+python-dotenv
 
 
 pytest
